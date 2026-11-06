@@ -1,0 +1,5 @@
+(Animal):
+    def meow(self): print("Meowing")
+
+dog = Dog(); dog.eat(); dog.bark()
+cat = Cat();
